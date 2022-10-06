@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/noor-islam-b442aa1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor-islam-b442aa1a9" height="30" width="40" /></a>
 <a href="https://fb.com/noor.ansari.121398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noor.ansari.121398" height="30" width="40" /></a>
 <a href="https://instagram.com/_itz_noorislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz_noorislam" height="30" width="40" /></a>
+<a href="https://twitter.com/_itz_noorislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_itz_noorislam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
